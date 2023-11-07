@@ -2,7 +2,6 @@
 in terminal run: streamlit run main.py
 in another terminal run: mlflow ui
 """
-
 import time
 import streamlit as st
 import pandas as pd
