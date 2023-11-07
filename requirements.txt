@@ -114,3 +114,4 @@ wrapt==1.15.0
 wurlitzer==3.0.3
 xxhash==3.4.1
 zipp==3.17.0
+ydata-profiling==4.6.1
